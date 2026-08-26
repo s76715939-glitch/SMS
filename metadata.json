@@ -1,0 +1,6 @@
+{
+  "name": "SMS Transaction Manager",
+  "description": "Realtime SMS receiver API and transaction manager dashboard with MongoDB persistence for Android SMS forwarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
